@@ -1,6 +1,6 @@
 # Cachet Docker Image
 
-This is a Klarrio fork of the Cachet docker images repository.
+This is a MOJO fork of the Cachet docker images repository.
 To build use the make commands. The component must be released and the binary mush exist in GitHub.
 The produced docker build image should be pushed to the docker registry.
 
